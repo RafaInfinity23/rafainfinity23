@@ -5,7 +5,7 @@
 Me chamo Rafael Velez Marchini, tenho 14 anos e sou natural de Campinas SP. Estou concluindo o Ensino Fundamental II, estudando em um curso de programação e desenvolvimento de código.
 
 <p align="left">
-    <a href="https://discord.gg/wF9XqmFe2S">
+    <a href="https://discord.gg/Sa77kDtT6X">
         <img 
             alt="Rl Studio" 
             title="Rl Studio" 
