@@ -1,8 +1,6 @@
 # 👩🏻‍💻 RafaInfinity
 
-**`Desenvolvedor Júnior`**
-
-Me chamo Rafael, tenho 14 anos. Estou concluindo o Ensino Fundamental II, estudando em um curso de programação e desenvolvimento de código.
+**`Desenvolvedor`**
 
 <p align="left">
     <a href="https://discord.gg/Sa77kDtT6X">
